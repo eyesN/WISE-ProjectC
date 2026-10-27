@@ -1,2 +1,4 @@
 # WISE-ProjectC
-A concept for drones to Perform while hitting target in no signal zone.
+
+A Pre test Prototype for drones to hit targets while not reciving any signal in the area.
+Just trying to solve the problem by using probability bias and ML.
